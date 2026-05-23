@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/ruvs.in-YouTube%20to%20MP3%20%26%20MP4%20Converter-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ruvs.in — Free YouTube to MP3 & MP4 Converter" width="420"/>
+<img src="https://img.shields.io/badge/ruvs.in-YouTube%20to%20MP3%20Converter-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ruvs.in — Free YouTube to MP3 & MP4 Converter" width="420"/>
 
-# YouTube to MP3 & MP4 Converter
+# YouTube to MP3 Converter
 
 ### Fast · Free · No Signup · No Watermark · Privacy Friendly
 
