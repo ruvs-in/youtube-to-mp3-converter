@@ -50,7 +50,7 @@ This repository contains the **open-source backend** powering **[www.ruvs.in](ht
 
 ## ☕ Support This Project
 
-If **[www.ruvs.in](https://www.ruvs.in/)** saved you time, buy me a coffee — it keeps the servers running and motivates me to keep building free tools. 🙏
+If this Repo or **[www.ruvs.in](https://www.ruvs.in/)** helped you or saved your time, buy me a coffee — it keeps the servers running and motivates me to keep building free tools. 🙏
 
 <div align="center">
 
